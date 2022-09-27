@@ -1,0 +1,31 @@
+Cuentas de admin para el sistema
+
+Cuenta 1:
+
+         usuario: oscar.yanfer
+         contraseña: admin1
+
+Cuenta 2:
+
+         usuario: luiggi.pasache
+         contraseña: admin2
+
+Cuenta 3:
+
+         usuario: diego.montalvo
+         contraseña: admin3
+
+Cuenta 4:
+
+         usuario: rodrigo.reyes
+         contraseña: admin4
+
+Cuenta 5:
+
+         usuario: juan.alfaro
+         contraseña: admin5
+
+Cuenta 6:
+
+         usuario: wilker.atalaya
+         contraseña: admin6
